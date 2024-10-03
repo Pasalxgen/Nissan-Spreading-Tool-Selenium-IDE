@@ -1468,12 +1468,19 @@
       "targets": [],
       "value": ""
     }, {
-      "id": "bf84dfda-0a48-4c09-8169-ab6ce689ad38",
+      "id": "b77114b4-ff2f-4a55-92ec-d60c5b3461a6",
       "comment": "Sales & Rental Income",
       "command": "type",
       "target": "xpath=/html/body/main/div/div/div[2]/div[1]/div/table[2]/table/tbody/tr[3]/td[2]/div/div/input",
       "targets": [],
       "value": "100"
+    }, {
+      "id": "bf84dfda-0a48-4c09-8169-ab6ce689ad38",
+      "comment": "Store Sales & Rental Income",
+      "command": "store",
+      "target": "xpath=/html/body/main/div/div/div[2]/div[1]/div/table[2]/table/tbody/tr[3]/td[2]/div/div/input",
+      "targets": [],
+      "value": "sri"
     }, {
       "id": "94116638-97e8-473e-9f8c-b8d9d5a68d7d",
       "comment": "Cost Of Goods Sold",
