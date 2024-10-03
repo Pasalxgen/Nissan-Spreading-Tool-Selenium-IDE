@@ -931,6 +931,13 @@
       "target": "xpath=/html/body/main/div/div[2]/div[2]/div/div/div[3]/div/button",
       "targets": [],
       "value": ""
+    }, {
+      "id": "e5154c2f-6e12-4f19-8165-bbd2bcccb8a3",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=/html/body/main/div/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div[2]/div/span[1]",
+      "targets": [],
+      "value": ""
     }]
   }],
   "suites": [{
