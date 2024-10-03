@@ -1026,14 +1026,14 @@
       "id": "7572fb0e-b585-4073-9c6d-f043dfc57aea",
       "comment": "",
       "command": "type",
-      "target": "xpath=/html/body/div[6]/div[3]/div/div[1]/div/div/div[1]/div[4]/div/input",
+      "target": "xpath=/html/body/div[6]/div[3]/div/div[1]/div/div/div[1]/div[3]/div/input",
       "targets": [],
       "value": "0"
     }, {
       "id": "0445d7a3-83cd-464c-b80b-6e42f109c06d",
       "comment": "",
       "command": "type",
-      "target": "xpath=/html/body/div[6]/div[3]/div/div[1]/div/div/div[1]/div[3]/div/input",
+      "target": "xpath=/html/body/div[6]/div[3]/div/div[1]/div/div/div[1]/div[4]/div/input",
       "targets": [],
       "value": "0"
     }, {
